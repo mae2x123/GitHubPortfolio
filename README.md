@@ -2,4 +2,4 @@
  Carbungco, Mary Louize P. | 9-Balingkiat   
  
 ## Q1
-https://github.com/lyrieieie08/CS3-PORTFOLIO/blob/main/q1/ctskillsBalingkilatBONDOCCARBUNGCOCATO.md
+https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_sg2_a1.md
