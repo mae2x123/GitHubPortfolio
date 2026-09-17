@@ -11,8 +11,11 @@ https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_mycar_balingkilat_Ca
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_sg5_a1_Balingkilat_Carbungco.py
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_sg6_Balingkilat_Carbungco.py
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_sg7_Balingkilat_Carbungco.py
-https://github.com/mae2x123/GitHubPortfolio/blob/bf4ed2a0e516c3c8854ba5a1fc1725340daf58ec/q1/FA4_Balingkilat_Bondoc_Carbungco_Cato.png
 
 ### SAMPLES
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/carsample_balingkilat_carbungco.py
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/tusoktusok_balingkilat_carbungco.py
+
+### FA3
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/3b0972b4-48f0-47ea-9b11-e8d22f3b3859" />
+
