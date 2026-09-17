@@ -4,25 +4,28 @@ class Glassware:
 
 
 class Beaker(Glassware):
-    def __init__(self, capacity, material):
-        super().__init__(material)
+    def __init__(self, capacity):
+        super().__init__("Glass")
         self.capacity = capacity
 
 
 class Tray:
     def __init__(self):
         self.beakers = [
-            Beaker(100, "Glass"),
-            Beaker(100, "Glass"),
-            Beaker(100, "Glass"),
-            Beaker(100, "Glass"),
-            Beaker(100, "Glass")
+            Beaker(100),
+            Beaker(200),
+            Beaker(250),
+            Beaker(350),
+            Beaker(500)
         ]
+    def show_inv(self):
+        print("The tray exists.")
+        print("All glassware in the tray: ")
+        for i, beaker in enumerate(self.beakers, 1):
+            print(f"Beaker {i}: {beaker.material}, {beaker.capacity} mL")
 
 
 tray = Tray()
-
-print(len(tray.beakers))
-print(tray.beakers[0].capacity)
-print(tray.beakers[0].material)
+tray.show_inv()
 del tray
+print("The tray, as well as the beakers, has been disposed of.")
