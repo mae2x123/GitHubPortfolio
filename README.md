@@ -14,3 +14,4 @@ https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/q1_sg7_Balingkilat_Carb
 
 ### SAMPLES
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/carsample_balingkilat_carbungco.py
+https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/tusoktusok_balingkilat_carbungco.py
