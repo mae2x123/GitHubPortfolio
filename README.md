@@ -22,3 +22,4 @@ https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/tusoktusok_balingkilat_
 
 ### FA CODES
 https://github.com/mae2x123/GitHubPortfolio/blob/main/q2/fa1_Balingkilat_Carbungco
+https://github.com/mae2x123/GitHubPortfolio/blob/main/q2/fa2_Balingkilat_Carbungco.py
