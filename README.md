@@ -18,3 +18,6 @@ https://github.com/mae2x123/GitHubPortfolio/blob/main/q1/tusoktusok_balingkilat_
 ### FA3
 <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/3b0972b4-48f0-47ea-9b11-e8d22f3b3859" />
 
+## Q2
+
+### FA CODES
