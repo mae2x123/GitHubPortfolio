@@ -1,0 +1,20 @@
+1. What do all the methods (move(), special_move(),  use()) in the previous activities have in common?
+They all share the same method name across different classes and serve a similar purpose tailored to each specific class.
+
+2. How does this activity show polymorphism in a gaming context?
+This shows polymorphism by showing how a single function can process completely different types of objects through one interface. 
+
+3. Can you think of other examples where the same action behaves differently depending on the character or item?
+
+The attack() Action
+    Archer: Fires a long-range projectile arrow.
+    Knight: Swings a close-range physical sword.
+    Necromancer: Casts a life-stealing spell.
+The take_damage() Action
+    Standard Enemy: Loses health points directly.
+    Armored Boss: Reduces incoming damage by 50% before losing health.
+    Ghost Enemy: Evades physical damage entirely but takes magic damage.
+The interact() Action
+    Chest: Triggers an opening animation and drops loot.
+    NPC: Opens a dialogue box or shop menu.
+    Lever: Toggles a mechanical door or bridge.
